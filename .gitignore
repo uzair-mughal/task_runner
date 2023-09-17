@@ -1,0 +1,16 @@
+# Compiled Python bytecode
+__pycache__/
+*.py[cod]
+
+# Packages files
+*.egg-info/
+
+# Test reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# VS Code settings
+.vscode/
